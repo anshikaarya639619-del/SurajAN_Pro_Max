@@ -1,0 +1,22 @@
+{
+  "store_name": "SurajAN_Pro_Max PDF Store OS",
+  "status": "Active",
+  "hosting": "GitHub Cloud",
+  "currency": "INR",
+  "products": [
+    {
+      "id": "pdf_001",
+      "title": "Autonomous Growth Playbook",
+      "price": 0,
+      "category": "Strategy",
+      "access": "Instant Download"
+    },
+    {
+      "id": "pdf_002",
+      "title": "YouTube Shorts Viral Blueprint",
+      "price": 99,
+      "category": "Content Mastery",
+      "access": "Cloud Delivery"
+    }
+  ]
+}

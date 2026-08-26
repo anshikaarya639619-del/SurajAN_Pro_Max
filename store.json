@@ -1,0 +1,57 @@
+[
+  {
+    "id": "playbook",
+    "title": "Autonomous Playbook",
+    "subtitle": "The Digital Product Operating System",
+    "description": "A practical guide to turning an idea into a repeatable digital-product system.",
+    "price": 0,
+    "currency": "USD",
+    "category": "Free",
+    "file": "products/playbook.md",
+    "featured": true
+  },
+  {
+    "id": "blueprint",
+    "title": "Shorts Viral Blueprint",
+    "subtitle": "Content Growth System",
+    "description": "A structured framework for creating, testing and improving short-form content.",
+    "price": 9,
+    "currency": "USD",
+    "category": "Creator",
+    "file": "products/blueprint.md",
+    "featured": true
+  },
+  {
+    "id": "creator-pro",
+    "title": "Creator Pro System",
+    "subtitle": "Content → Audience → Product",
+    "description": "A premium framework for building a creator-led digital product ecosystem.",
+    "price": 19,
+    "currency": "USD",
+    "category": "Creator",
+    "file": "",
+    "featured": true
+  },
+  {
+    "id": "business-os",
+    "title": "Digital Business OS",
+    "subtitle": "Build Your Online Product Machine",
+    "description": "A strategic digital-business framework covering product, distribution, conversion and automation.",
+    "price": 29,
+    "currency": "USD",
+    "category": "Business",
+    "file": "",
+    "featured": true
+  },
+  {
+    "id": "ultimate-bundle",
+    "title": "Ultimate Digital Bundle",
+    "subtitle": "Everything In One System",
+    "description": "A future bundle combining the store's premium digital products.",
+    "price": 49,
+    "currency": "USD",
+    "category": "Bundle",
+    "file": "",
+    "featured": true
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "business": {
+    "name": "SurajAN Pro Max",
+    "market": "Global",
+    "language": "English",
+    "currency": "USD"
+  },
+
+  "target": {
+    "monthlyRevenueINR": 5000000,
+    "cycleDays": 30,
+    "guaranteed": false
+  },
+
+  "operation": {
+    "mode": "autonomous",
+    "routineHumanIntervention": false,
+    "optimization": "continuous"
+  },
+
+  "rules": {
+    "noSpam": true,
+    "noFakeReviews": true,
+    "noMisleadingClaims": true,
+    "respectPlatformPolicies": true,
+    "protectCustomerData": true,
+    "protectCopyright": true
+  },
+
+  "priority": [
+    "customerValue",
+    "legalCompliance",
+    "profitability",
+    "growth",
+    "automation"
+  ]
+}
